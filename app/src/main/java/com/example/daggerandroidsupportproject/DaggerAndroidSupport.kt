@@ -1,4 +1,4 @@
 package com.example.daggerandroidsupportproject
 
-class DaggerAndroidSupport {
+class DaggerAndroidSupport {a
 }
